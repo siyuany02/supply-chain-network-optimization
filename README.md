@@ -13,7 +13,6 @@ This project addresses these objectives using **classification modeling** and **
 1. Identify which proposed suppliers should be approved for a new market.
 2. Design a minimum-cost supply chain network connecting:
    **Suppliers → Ports → Distribution Centers**
-3. Evaluate whether supplier capacity upgrades are economically justified.
 
 ---
 
