@@ -1,9 +1,9 @@
 # supply-chain-network-optimization 
 *(Excel Analytic Solver Platform | Decision Analytics)*
+# Supply Chain Network Optimization (Excel Analytic Solver Platform)
 
 ## Background
-Vandelay Industries is a global latex import/export company expanding into a new geographic market.
-The company seeks data-driven decision support to (1) select reliable suppliers and (2) design a cost-efficient supply chain network while meeting all customer demand.
+Designing an efficient supply chain network requires balancing transportation cost, capacity constraints, and market demand across multiple echelons.
 
 This project addresses these objectives using **classification modeling** and **optimization-based decision analytics** implemented in Excel.
 
